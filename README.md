@@ -1,2 +1,3 @@
 Use npm install and then npm start!
-[Untitled](https://user-images.githubusercontent.com/96732484/153321666-e484417e-8557-419a-9f87-14a05cefe66d.png)
+
+![NetflixClone](https://user-images.githubusercontent.com/96732484/153321777-65ae7efa-f989-4000-acba-7fcc080f95f5.png)
